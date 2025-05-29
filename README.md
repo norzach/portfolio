@@ -9,7 +9,8 @@
 - Programmatic Infrastructure for Machine Learning / Large-Language Models / Data-Ops 
 - Kubernetes platform automation serving hundreds of developers
 
-**Background**
+**Background:**
+
 After reading Neal Stephenson's "In the Beginning was the Commandline" I began running linux exclusively, mainly for its flexibility and ease of software availability.
 
 I'm a hacker, cinemafile, and musician who serves teams through bespoke automation systems.
@@ -20,6 +21,7 @@ Significantly, it helped me understand that:
 - Good software is fashionable, as in malleable, composable, and extensible
 
 **Motivation**
+
 Workforces deserve deep focus to reach creative plateaus to address difficult problems.
 
 I make scenarios, problems, and processes well understood to make them routine and invisible.
