@@ -1,6 +1,15 @@
 # Zachary Norman
 ## Software, DevOps, & Business Automation Engineer
 
+**Core Functions:**
+- DevOps & Platform Engineering - Right sized infinite scale
+- Establish technical coherence to meet business objective requirements
+- Production Pipeline Development and Release Engineering
+- Security & Compliance as Code (FedRAMP, GDPR, NIST 800-53)
+- Programmatic Infrastructure for Machine Learning / Large-Language Models / Data-Ops 
+- Kubernetes platform automation serving hundreds of developers
+
+**Background**
 After reading Neal Stephenson's "In the Beginning was the Commandline" I began running linux exclusively, mainly for its flexibility and ease of software availability.
 
 I'm a hacker, cinemafile, and musician who serves teams through bespoke automation systems.
@@ -10,9 +19,10 @@ Significantly, it helped me understand that:
 - Proprietary systems inherently are not ones own
 - Good software is fashionable, as in malleable, composable, and extensible
 
-I make scenarios, problems, and processes well understood to make them routine and invisible.
-
+**Motivation**
 Workforces deserve deep focus to reach creative plateaus to address difficult problems.
+
+I make scenarios, problems, and processes well understood to make them routine and invisible.
 
 ```mermaid
 graph TB
@@ -70,10 +80,3 @@ graph LR
     F["Make a scenario well understood<br/>to make it invisible.<br/>"]
 ```
 
-**Specializations:**
-- DevOps & Platform Engineering - Right sized infinite scale
-- Establish technical coherence to meet business objective requirements
-- Production Pipeline Development and Release Engineering
-- Security & Compliance as Code (FedRAMP, GDPR, NIST 800-53)
-- Programmatic Infrastructure for Machine Learning / Large-Language Models / Data-Ops 
-- Kubernetes platform automation serving hundreds of developers
