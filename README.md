@@ -15,7 +15,7 @@ I make scenarios, problems, and processes well understood to make them routine a
 Workforces deserve deep focus to reach creative plateaus to address difficult problems.
 
 ```mermaid
-graph TD
+graph TB
     A[Business Requirements] --> B[Stakeholder Interviews]
     B --> C[Process Analysis]
     C --> D[Automated Method]
@@ -53,13 +53,13 @@ I enable teams to focus on their core skill sets by eliminating routine business
 
 ```mermaid
 graph LR
-    A[Stakeholder Interviews] --> B[Process Documentation]
-    B --> C[Infrastructure as Code]
-    C --> D[CI/CD Automation]
+    A[Stakeholder Interviews] --> B[Process Review]
+    B --> C[Procedure Transcription]
+    C --> D[Automation]
     D --> E[Observability & Metrics]
     E --> A
     
-    subgraph "Requirements to Continuous Feedback Loop"
+    subgraph "Continuous Feedback Loop"
         A
         B
         C
